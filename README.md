@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 📫 How to reach me ...sudinashrestha_97
 - 😄 Pronouns: ...su-di-na
-- ⚡ Fun fact: ..
+- ⚡ Fun fact: i love to sing hehhe
 
 <!---
 sudina-ai/sudina-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
